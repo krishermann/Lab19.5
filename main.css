@@ -1,0 +1,14 @@
+/*.left{ float: left; width: 33%}
+.right{ float: right; width: 33%; }*/
+body {
+	background-color: #000000;
+	color: white;
+	width: 75%;
+	text-align: center;
+	}
+
+.center{
+	display: inline-block; 
+	margin-left: 0px auto;
+	text-align: center;
+	}
